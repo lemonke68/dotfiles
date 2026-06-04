@@ -1,0 +1,9 @@
+{
+    "general": {
+        "mediaGifSpeedAdjustment": 100
+    },
+    "paths": {
+        "mediaGif": "~/Downloads/sewerslvt-transparent.gif",
+        "sessionGif": "~/Downloads/lain-dance.gif"
+    }
+}
