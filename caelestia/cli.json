@@ -1,0 +1,6 @@
+{
+  "theme": {
+    "enableCava": false,
+    "postHook": "bash /home/lemonke67/.config/caelestia/apply-cava.sh"
+  }
+}
